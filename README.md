@@ -2,6 +2,8 @@
 
 This project is based on [rp2040-project-template](https://github.com/rp-rs/rp2040-project-template)
 
+![rp2040-hd44780](rp2040-hd44780.jpg)
+
 ## Quickstart
 
 Wiring will depend on you 16x02 display (based on HD44780 controller). Remeber that Raspberry Pi Pico runs on 3.3V. 
