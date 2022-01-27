@@ -2,7 +2,7 @@
 
 This project is based on [rp2040-project-template](https://github.com/rp-rs/rp2040-project-template)
 
-![rp2040-hd44780](rp2040-hd44780.jpg)
+![rp2040-hd44780](imgs/rp2040-hd44780.jpg)
 
 ## Quickstart
 
